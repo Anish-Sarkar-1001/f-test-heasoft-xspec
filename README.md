@@ -1,4 +1,4 @@
-# Details:
+# Details
 
 This is an f statistic calculator for generated fake spectra. The `.xcm` file only serves as an example. User `.xcm` loaded data will be different. The `xcm` file consists of `tcl` script that loops over the fake data and calculates the f statistic using the fake spectra and the original spectra. The number of fake spectra can be adjusted from the `.xcm` loop. 
 This sort of a script was employed for calculating the posterior predictive p-value using the `fakeit` command in *xspec*
